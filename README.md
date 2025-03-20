@@ -20,6 +20,10 @@ This Firefox extension allows students at **ITMO University** to fetch their per
 
 ---
 
+## Add-on on firefox :
+
+[Link to extension](https://addons.mozilla.org/en-US/firefox/addon/itmo-schedule-downloader)
+
 ## 🛠 Project Structure
 
 ```bash
